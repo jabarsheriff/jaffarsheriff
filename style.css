@@ -1,11 +1,10 @@
 html,body,*{
-margin:0;
+margin:10;
 padding:
 }	
 
 h1{
-color:black;
-background-color:yellow;
-padding:25px;
-text-align;
-}
+color:blue;
+background-color:red;
+padding:75px;
+text-align;}
